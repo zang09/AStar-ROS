@@ -2,7 +2,8 @@
 
 ### This is path generator example using a-star algorithm
 ![Demo](/img/path_exam.png)
-
+<br>
+<br>
 ### Prerequisition
 Install package
 ``` bash
