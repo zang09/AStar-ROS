@@ -1,6 +1,6 @@
 # A* Path Planner
 
-### This is path generator example using a-star algorithm using ROS
+### This is path generator example using a-star algorithm at ROS Rviz
 ![Demo](/img/path_exam.png)
 <br>
 <br>
