@@ -1,4 +1,4 @@
-# A-Star Path Planner
+# A* Path Planner
 
 ### This is path generator example using a-star algorithm
 ![Demo](/img/path_exam.png)
