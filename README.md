@@ -25,4 +25,4 @@ $ source ~/catkin_ws/devel/setup.bash
 ```
 $ roslaunch path_generator run.launch
 ```
-2. Send goal pose by rviz tool `2D Nav Goal`
+4. Send goal pose by rviz tool `2D Nav Goal`
