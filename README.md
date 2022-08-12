@@ -1,7 +1,8 @@
 # A* Path Planner
 
-### C++ implementation of A* Path planning for ROS
+### Astar demo in ROS Rviz
 ![Demo](https://user-images.githubusercontent.com/31432135/184294267-b0fe5840-1d76-44a7-80a5-d5ba0d35c083.gif)
+<br>
 
 ### Prerequisition
 Install package
