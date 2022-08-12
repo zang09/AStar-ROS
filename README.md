@@ -1,7 +1,7 @@
 # A* Path Planner
 
 ### C++ implementation of A* Path planning for ROS
-![Demo](https://user-images.githubusercontent.com/31432135/184293660-5bb091d2-831e-45a5-bc91-10eb029970c0.gif)
+![Demo](https://user-images.githubusercontent.com/31432135/184294267-b0fe5840-1d76-44a7-80a5-d5ba0d35c083.gif)
 
 ### Prerequisition
 Install package
