@@ -14,7 +14,7 @@ $ sudo apt install ros-${ROS_DISTRO}-map-server
 ```
 $ mkdir -p ~/catkin_ws/src
 $ cd ~/catkin_ws/src
-$ git clone https://github.com/zang09/A-Star.git
+$ git clone https://github.com/zang09/AStar-ROS.git
 ```
 2. Build Package
 ```
